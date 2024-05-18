@@ -1,4 +1,4 @@
-<img width="902" alt="image" src="https://github.com/amnashahzad/Machine_Learning_activity_Amna_Shahzad/assets/121329321/a1a43f1a-11cf-443e-8b32-44793f0a47ae"><img width="903" alt="image" src="https://github.com/amnashahzad/Machine_Learning_activity_Amna_Shahzad/assets/121329321/f193e853-d3bd-47cd-bda1-cca10a77d0a7"><h1>Step 1 start</h1>
+<h1>Step 1 start</h1>
 <img width="913" alt="image" src="https://github.com/amnashahzad/Machine_Learning_activity_Amna_Shahzad/assets/121329321/70a9d8a0-4086-40ca-9d4e-c78c65ad3d28">
 <img width="905" alt="image" src="https://github.com/amnashahzad/Machine_Learning_activity_Amna_Shahzad/assets/121329321/92f60e33-082d-4f0a-bc6c-06c814c6efd1">
 <img width="899" alt="image" src="https://github.com/amnashahzad/Machine_Learning_activity_Amna_Shahzad/assets/121329321/39329887-f555-4756-815d-dc8fce406d94">
